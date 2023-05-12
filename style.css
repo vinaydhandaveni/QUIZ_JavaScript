@@ -1,0 +1,26 @@
+body{
+    /*text-align: center;*/
+    background-color: aquamarine;
+    background: url('./penp.jpg');
+}
+qsn{
+    display: flex;
+    flex-direction: column;
+    
+}
+._qsn{
+    background: linear-gradient(blue,pink);
+    border-radius:30px;
+    margin:20px 100px;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    padding:40px;
+
+}
+h1{
+    text-align: center;
+}
+img{
+    border-radius: 20px;;
+}
